@@ -4,7 +4,7 @@
 
 This extension allows you to copy Spanish accents.
 
-![logo](imgs/Screenshot_6.png)
+![showcase](imgs/showcase.png)
 
 Shift-click to copy the capitalized accent. 
 
@@ -13,10 +13,10 @@ Shift-click to copy the capitalized accent.
 1. Go to [the releases tab](https://github.com/Reallukeisbest/spanish-accents/releases/tag/Release/)
 2. Scroll down and download the zip file under "assets"
 3. Go to chrome://extensions/
-![step-2](imgs/Screenshot_1.png)
+![step-2](https://raw.githubusercontent.com/Reallukeisbest/french-accents/main/imgs/Screenshot_1.png)
 4. Turn on Developer mode
-![step-3](imgs/Screenshot_2.png)
+![step-3](https://raw.githubusercontent.com/Reallukeisbest/french-accents/main/imgs/Screenshot_2.png)
 5. Reload the page
 6. Drag the zip file to the extensions page
-![step-5](imgs/Screenshot_5.png)
+![step-5](https://raw.githubusercontent.com/Reallukeisbest/french-accents/main/imgs/Screenshot_5.png)
 7. Enjoy!
