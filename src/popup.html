@@ -1,0 +1,38 @@
+<style>
+	body {
+		text-align: center;
+		width: 500px;
+		height: fit-content;
+	}
+
+	button {
+		font-size: 20px;
+		margin: 5px;
+		width: 35px;
+		height: 35px;
+		display: inline-flex;
+		align-items: center;
+		border-radius: 5px;
+		border: 1px solid black;
+		background-color: transparent;
+		align-content: center;
+		justify-content: center;
+		
+		transition: transform 0.2s, background-color 0.2s, border 0.2s;
+	}
+
+	button:hover {
+		transform: translateY(-2px);
+		background-color: rgb(230, 230, 230);
+	}
+
+	button:active {
+		border: 3px solid black;
+	}
+</style>
+
+<body>
+	<h1>Click on an accent to copy it!</h1>
+
+	<script charset="UTF-8" src="script.js"></script>
+</body>

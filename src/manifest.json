@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Accents",
+    "description": "Adds the ability to copy and paste accents.",
+    "author": "Luke (reallukeisbest889@gmail.com)",
+    "version": "1.1",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "Accents"
+    },
+    "background": { "page": "background.html" },
+    "permissions": ["clipboardWrite"],
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+}
